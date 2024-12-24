@@ -22,7 +22,7 @@ function Logo() {
         
       >
         <motion.div className="p-0">
-        {hovered ? 'Mediator' : 'M.R.'}
+        {hovered ? 'Mediator' : 'MR'}
         </motion.div>
         
       </MotionLink>
