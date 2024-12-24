@@ -19,7 +19,7 @@ function Logo() {
             "rgba(131,58,180,1)",
             "#121212",
           ],
-          scale:1.5,
+          width: '100px',
           transition:{duration:1,repeat:Infinity}
         }}
       >
