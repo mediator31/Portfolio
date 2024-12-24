@@ -19,10 +19,11 @@ function Logo() {
             "rgba(131,58,180,1)",
             "#121212",
           ],
+          scale:1.5,
           transition:{duration:1,repeat:Infinity}
         }}
       >
-        <div className="p-0">MRC</div>
+        <div className="p-0">MR</div>
         
       </MotionLink>
     </div>
