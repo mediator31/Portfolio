@@ -18,7 +18,7 @@ function Logo() {
         
       >
         <motion.div className="p-0">
-        MR
+        {hovered ? 'MrSellam' : 'Mr'}
         </motion.div>
         
       </MotionLink>
