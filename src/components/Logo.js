@@ -18,7 +18,7 @@ function Logo() {
           width: '150px',
           
         }}
-        transition={{ type: 'spring', stiffness: 300, damping: 20 }}
+        transition={{ type: 'spring', stiffness: 350, damping: 20 }}
         
       >
         <motion.div className="p-0">
