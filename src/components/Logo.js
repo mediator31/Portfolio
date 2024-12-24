@@ -23,7 +23,7 @@ function Logo() {
         }}
       >
         <div className="p-0">MR</div>
-        <div className="text-[9px] leading-none">31</div>
+        
       </MotionLink>
     </div>
   );
