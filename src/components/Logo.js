@@ -11,19 +11,15 @@ function Logo() {
         href="/"
         className="w-16 h-16 bg-dark text-light flex flex-col items-center justify-center rounded-full text-xl font-bold "
         whileHover={{
-          backgroundColor: [
-            "#121212",
-            "rgba(131,58,180,1)",
-            "rgba(253,29,29,1)",
-            "rgba(252,176,69,1)",
-            "rgba(131,58,180,1)",
-            "#121212",
-          ],
-          width: '100px',
-          transition:{duration:1,repeat:Infinity}
+          
+          width: '150px',
+          transition:{duration:1}
         }}
+        
       >
-        <div className="p-0">MR</div>
+        <motion.div className="p-0">
+        MR
+        </motion.div>
         
       </MotionLink>
     </div>
