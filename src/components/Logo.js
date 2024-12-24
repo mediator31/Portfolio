@@ -22,7 +22,7 @@ function Logo() {
           transition:{duration:1,repeat:Infinity}
         }}
       >
-        <div className="p-0">MR</div>
+        <div className="p-0">MRC</div>
         
       </MotionLink>
     </div>
